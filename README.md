@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AChairA
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming, physics, music (mainly classical).
 - 🌱 I’m currently learning hah, everything, mainly Python, Julia, C, DFT, MD, machine-learning etc.
 - 💞️ I’m looking to collaborate on DFT and MD projects. 
 - 📫 How to reach me ...
